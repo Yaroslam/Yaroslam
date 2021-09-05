@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yaroslam
 - 👀 I’m interested in programming, history, pixelart
 - 🌱 I’m currently learning python
-- 💞️ I’m not looking to collaborate on 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me VK/TG @Yaroslam  INST @Yaromask
 
 <!---
