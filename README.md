@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Yaroslam
+- tg @llggwp
 - 👀 I’m interested in programming, history, pixelart
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate 
